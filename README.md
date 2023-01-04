@@ -112,6 +112,28 @@ Análisis de circuitos de ca
 
 ![image](https://user-images.githubusercontent.com/116810935/210668701-161852a1-77fc-4f91-9098-fb6c30dbae01.png)
 
+34.- La frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 ms. ¿Cuál es el ciclo de trabajo en porcentaje?
+
+![image](https://user-images.githubusercontent.com/116810935/210669219-9627a3a9-1052-44f8-8ab2-961514a198a4.png)
+
+36. Determine el ciclo de trabajo de cada una de las formas de onda mostradas en la figura 11-86.
+
+![image](https://user-images.githubusercontent.com/116810935/210669304-9f834aa8-2972-47d9-9c79-784e4e752175.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210669508-5e9bdc91-bd42-4e1e-b316-1575d849de65.png)
+
+38. ¿Cuál es la frecuencia de cada una de las formas de onda mostradas en la figura 11-86?
+
+![image](https://user-images.githubusercontent.com/116810935/210669556-70c5f481-6df4-4665-8590-75a7d4235863.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210669586-6bd8ca43-9a46-40b0-a271-ac3f89349dff.png)
+
+40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor
+promedio.
+
+![image](https://user-images.githubusercontent.com/116810935/210669729-04cf2d2c-0978-4d4a-9825-299d2736097a.png)
+
+42. ¿Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?
 
 
 

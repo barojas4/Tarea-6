@@ -31,6 +31,11 @@ Para entender la teoría de circuitos eléctricos desde lo más básico es indis
 
 4.-Una onda seno tiene una frecuencia de 50 kHz. ¿Cuántos ciclos completos en 10 ms?
 
+![image](https://user-images.githubusercontent.com/116810935/210662904-a18a7377-6318-46f8-a9c1-c389924e01b2.png)
+
+
+6.-Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?
+
 ![image](https://user-images.githubusercontent.com/116810935/210662555-134c5958-2adc-425d-a11f-5058e72367e6.png)
 
 

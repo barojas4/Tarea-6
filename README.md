@@ -135,6 +135,30 @@ promedio.
 
 42. ¿Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?
 
+F = 1/0.04s F = 25 Hz Seis primeros armónicos: 75 – 125 – 175 – 225 – 275 – 325
+
+
+44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta
+prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada
+y salida. La forma de onda mostrada es el canal 1. Trace
+la forma de onda del canal 2 como aparecería
+en el osciloscopio con los ajustes indicados.
+
+![image](https://user-images.githubusercontent.com/116810935/210669953-83e107f3-e129-40a3-a351-ce8bfa7ed21d.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210670233-0b2beca2-33c0-40a1-b4bb-7199c261dddd.png)
+
+CAPITULO N° 12
+
+2. Transforme los siguientes valores de microfarads a picofarads:
+
+![image](https://user-images.githubusercontent.com/116810935/210670757-2bfead22-e97b-452f-bb26-4af19d2fa0be.png)
+
+4. Transforme los siguientes valores de farads a microfarads;
+
+![image](https://user-images.githubusercontent.com/116810935/210671018-50bb9bc6-45c3-43ea-8572-52e461e3cd83.png)
+
+6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?
 
 
 

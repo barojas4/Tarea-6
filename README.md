@@ -64,6 +64,9 @@ Respecto a 0 grados tiene un pico de sinusoidal de 75 grados tiene una onda sinu
 
 18.-Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno de los puntos siguientes:
 
+![image](https://user-images.githubusercontent.com/116810935/210666145-c7d8e741-6695-4093-b7c5-352ab440ae2f.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210666204-568ea29a-351d-466a-8736-55ae23d48a33.png)
 
 
 

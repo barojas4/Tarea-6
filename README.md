@@ -160,6 +160,11 @@ CAPITULO N° 12
 
 6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?
 
+![image](https://user-images.githubusercontent.com/116810935/210671437-f1e24ec1-a6f2-467e-ba65-eec717a0023f.png)
+
+8. Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 m¿Cuál es la capacitancia?
+
+![image](https://user-images.githubusercontent.com/116810935/210671540-7aab10fe-e590-4575-8af0-38372a697aa8.png)
 
 
 

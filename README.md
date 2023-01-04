@@ -68,8 +68,49 @@ Respecto a 0 grados tiene un pico de sinusoidal de 75 grados tiene una onda sinu
 
 ![image](https://user-images.githubusercontent.com/116810935/210666204-568ea29a-351d-466a-8736-55ae23d48a33.png)
 
+20.-Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B. La onda seno A va 30° delante de la onda seno B. Ambos tienen valores pico de 15 V. La onda seno A es la referencia con un cruce por cero hacia positivo en 0°. Determine el valor instantáneo de la onda seno B en 30°, 45°, 90°, 180°, 200°, y 300°.
+
+![image](https://user-images.githubusercontent.com/116810935/210667256-fa6d7a13-8d5c-4ed8-b40f-f5f253d7eb91.png)
+
+22.-Trace un diagrama fasorial para representar las ondas seno de la figura 11-78 con respecto a la referencia de 0°.
+
+![image](https://user-images.githubusercontent.com/116810935/210667362-7cac6b2a-5282-459a-b373-e7a4b2c736a1.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210667415-9922219e-c0e5-431c-b1f6-9bb3ed4fbc04.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210667444-97018660-90be-4763-851f-71eed7bc68a2.png)
+
+24.-Determine la frecuencia para cada velocidad angular:
+
+![image](https://user-images.githubusercontent.com/116810935/210667918-be5319c4-a241-42ea-8d80-71a14134bc69.png)
+
+SECCIÓN 11–7
+
+Análisis de circuitos de ca
+
+26.- Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determinar los siguientes valores:
+
+![image](https://user-images.githubusercontent.com/116810935/210667951-3ef9ef00-7843-4a62-80c6-72a6cd1aeb87.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210668463-609a7a7d-7022-422f-889b-db4e1c9bfe80.png)
+
+28.-Determine el voltaje rms entre los extremos de R3 en la figura 11-82.
+
+![image](https://user-images.githubusercontent.com/116810935/210668500-ca8514d9-5453-4de7-b362-8aacf5f10967.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210668542-be2731b9-d695-467d-987d-124c1a683013.png)
+
+30.-¿Cuánto voltaje de cd se debe agregar a una onda seno de 3 V rms para hacer que el voltaje no resulte alterno (valores negativos)?
 
 
+![image](https://user-images.githubusercontent.com/116810935/210668581-269542cc-463e-4b75-8cda-cf2cca81c4a2.png)
+
+32.-La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga.
+
+![image](https://user-images.githubusercontent.com/116810935/210668675-35ec70d5-e4ca-4e2a-8001-f06ebff2de3a.png)
+
+
+![image](https://user-images.githubusercontent.com/116810935/210668701-161852a1-77fc-4f91-9098-fb6c30dbae01.png)
 
 
 

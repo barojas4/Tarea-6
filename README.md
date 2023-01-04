@@ -38,6 +38,32 @@ Para entender la teoría de circuitos eléctricos desde lo más básico es indis
 
 ![image](https://user-images.githubusercontent.com/116810935/210662555-134c5958-2adc-425d-a11f-5058e72367e6.png)
 
+8.-El valor pico de una onda seno es de 12 V. Determine los siguientes valores:
+
+![image](https://user-images.githubusercontent.com/116810935/210663261-d0c866cf-db09-4773-9d26-bb2ff0a625ab.png)
+
+10.-Para la onda seno de la figura 11-77, determine los valores pico, pico a pico, rms y promedio
+
+![image](https://user-images.githubusercontent.com/116810935/210663335-1a02f75b-a970-4fd8-8ec5-3ce2253d6780.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210663450-3a6a97ba-754a-4817-a3ae-b40cef78c424.png)
+
+12.-Cambie los siguientes valores angulares de radianes a grados:
+
+![image](https://user-images.githubusercontent.com/116810935/210663819-527c4926-b1e9-43d3-8113-2cc233adbe6a.png)
+
+14.-Una onda seno tiene un pico positivo en 75° y otra con un pico positivo en 100°. ¿Cuánto se desfasa cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?
+
+Respecto a 0 grados tiene un pico de sinusoidal de 75 grados tiene una onda sinusoidal de 100 grados por lo tanto el ángulo de la fase es de 25 grados.
+
+
+16.-Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos:
+
+
+![image](https://user-images.githubusercontent.com/116810935/210664162-503c11ed-0720-41e3-a0f5-5b8e586d4fb8.png)
+
+18.-Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno de los puntos siguientes:
+
 
 
 

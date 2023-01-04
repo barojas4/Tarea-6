@@ -166,6 +166,20 @@ CAPITULO N° 12
 
 ![image](https://user-images.githubusercontent.com/116810935/210671540-7aab10fe-e590-4575-8af0-38372a697aa8.png)
 
+10. Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria de las ciencias. Planea utilizar un dieléctrico de papel (er= 2.5) de 8x105 m de espesor. La feria de las ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué tamaño serían las placas si pudieran ser construidas?
+
+![image](https://user-images.githubusercontent.com/116810935/210671669-8c853f46-3bf2-4a65-bc1c-8ffc78fbf996.png)
+
+12. A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 1000 pF. El capacitor tiene
+coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál es su capacitancia a 75°C?
+
+![image](https://user-images.githubusercontent.com/116810935/210671703-07b17ea4-13f4-46c0-a3e6-323503ea98d0.png)
+
+14. En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área
+de placas?
+
+Consta de capas alternas de laminillas metálicas y delgadas hojas de mica. Las laminillas metálicas forman la placa, con las laminillas alternas conectadas entre sí para incrementar el área de placas. Se utilizan más capas para incrementar el área de placas, y por tanto, se incrementa la capacitancia. El apilamiento de hojas de mica/laminillas se encapsula en un material aislante.
+
 
 
 

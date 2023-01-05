@@ -212,6 +212,20 @@ entre las terminales de cada capacitor.
 
 ![image](https://user-images.githubusercontent.com/116810935/210672856-1af36db1-1635-479c-9d84-20954e71dfeb.png)
 
+26. ¿Cuál es la carga en cada capacitor de la figura 12-71?
+
+![image](https://user-images.githubusercontent.com/116810935/210673455-3380adf6-8262-44b3-bac6-b77a1e960a18.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210673759-7886d9a1-cbb0-48bc-b13a-1846530ebaa4.png)
+
+28. ¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-72?
+
+![image](https://user-images.githubusercontent.com/116810935/210673848-2e49e49c-45b1-4773-82b5-ae63159d748a.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210673878-ceb03461-62fe-41e8-a3f5-c528474c617e.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210673886-d520e120-660c-4324-bfcf-c9eeb345cd41.png)
+
 
 
 

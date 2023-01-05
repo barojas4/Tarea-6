@@ -12,12 +12,14 @@ MATERIA: Fundamentos de Circuitos Electricos
 
 * Objetivo General
 
-Analizar la teoria de la ley de  Ohm y la ley watt para poder resolver problemas de circuitos en serie o paralelos, tambien evidenciar nuevos conceptos como potencia y energia. 
+Analizar la teoria de las variables en conexiones de capacitores en serie y paralelo, para entender el comportamiento de los diferentes capacitores en circuitos mixtos utilizando el libro "Principios de circuitos electricos" .
 
 
 * Objetivos especificos
 
-Determinar la solucion de problemas que implique la aplicacion de la ley de Ohm asi como la ley de watt en donde se tiene que tener definido bien los conceptos de resistecias, corriente, voltaje entre otros conceptos.
+1. Determinar la caracteristica de los voltajes alternos en una onda de la función seno.
+2. Determinar la forma de onda sinusoidal con sus caracteristicas asi como saberlas medir.
+3. Identificar los diferentes capacitores que existen asi como caracteristicas de cada uno. 
 
 ## 2.Marco Teorico (Resumen)
 
@@ -380,7 +382,9 @@ Todas las frecuencias son de 15 kHz.
  
  ## 5.Conlusión 
  
- * En conclusión en la tarea presente se logró alcanzar los objetivos plantados anteriormente se entiende que la ley de Ohm sirve para encontrar ya sea intensidad de corriente electrica, voltaje o resistencia tambien es posible evidenciar la relacion de la ley de watt para encontrar nuevos conceptos como potencia y enerigia.
+ * En conclusión en la tarea presente se logró alcanzar los objetivos plantados anteriormente se entiende que los capacitores como las resistencias pueden conectarse en serie paralelo asi como circuitos mixtos.
+ 
+ * El capacitor es un dispositivo electrónico que almacena energía en un campo eléctrico interno. Es un componente electrónico pasivo básico junto con resistencias e inductores.
   
 * Se realizo un trabajo eficiente que permite reconocer los conceptos de la electrónica fundamental, en beneficio del trabajo se logró definir formulas muy importantes.
 

@@ -293,6 +293,7 @@ Todas las frecuencias son de 15 kHz.
 
 54 En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
 
+![image](https://user-images.githubusercontent.com/116810935/210676282-cf9d42fe-a87b-4ca0-bea3-f99dfa32f88a.png)
 
 
 

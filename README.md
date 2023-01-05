@@ -238,17 +238,60 @@ SECCIÓN 12–5 Capacitores en circuitos de cd
 
 ![image](https://user-images.githubusercontent.com/116810935/210674580-0c732a1a-0abc-422c-b7e0-ca0cc28c7c54.png)
 
+34. Repita el problema 32 con los siguientes intervalos de tiempo:a) 2us b) 5us c) 15 us
+
+![image](https://user-images.githubusercontent.com/116810935/210675010-671581d4-ee39-42ee-8a31-862267c9ea25.png)
+
+36. Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial
+creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura 12-76
+llega a 6 V después de cerrar el interruptor. 
+
+![image](https://user-images.githubusercontent.com/116810935/210675067-6d6799e5-0836-409f-bef8-d253230f1e3f.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210675362-b1ffa8c9-1056-4301-b4ad-44c716951607.png)
+
+38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?
+
+![image](https://user-images.githubusercontent.com/116810935/210675642-41a51e59-c311-4fa7-91b2-059b158974ae.png)
+
+40 En la figura 12-78, inicialmente el capacitor está descargado. En el instante t = 10 ms después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R.
+
+![image](https://user-images.githubusercontent.com/116810935/210675695-34a89c4e-b6c8-4a75-aa4c-19b3f78995b3.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210675772-b77add97-dbd3-418b-a7c3-049e18668e53.png)
+
+42. ¿Cuál es el valor de la reactancia capacitiva total en cada circuito de la figura 12-80?
+
+![image](https://user-images.githubusercontent.com/116810935/210675830-3b1f27e8-a06a-4a56-a351-9fdeaf717f9a.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210675841-57d6c878-9090-4d94-9e3d-9fc3b4609486.png)
+
+44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 Ohms? ¿Una XC de 1 kOhm?
+
+![image](https://user-images.githubusercontent.com/116810935/210675888-7f1afcdb-b14c-446a-8f4d-8deb15287616.png)
+
+46. Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 uF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?
+
+![image](https://user-images.githubusercontent.com/116810935/210675925-afa35430-9adf-490e-9d44-370968ad439d.png)
+
+48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81.
+
+![image](https://user-images.githubusercontent.com/116810935/210675975-9b0a92b8-9f33-4c87-9464-857b67179478.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210676005-98e76929-db6c-4a66-9ee5-fe69aa020e77.png)
+
+50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.
+
+![image](https://user-images.githubusercontent.com/116810935/210676066-276a37d3-fc3d-49b8-b69b-4c0ca90e3648.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210676088-b8a85e8e-9e14-4481-9551-cfbf331c4389.png)
+
+52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?
+
+Todas las frecuencias son de 15 kHz.
 
 
-
-
-
-
-
-
-
-
-
+54 En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
 
 
 

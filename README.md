@@ -192,7 +192,8 @@ Conexión del capacitor electrolítico
 
 ![image](https://user-images.githubusercontent.com/116810935/210672007-71544a9b-6497-4a7d-8391-5a121e2c4a3a.png)
 
-![image](https://user-images.githubusercontent.com/116810935/210672264-5294496f-ecfd-431b-b889-22fac651a272.png)
+![image](https://user-images.githubusercontent.com/116810935/210672994-40fb06f2-e03d-4938-8126-2fcb3b0bfe64.png)
+
 
 20. Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?
 

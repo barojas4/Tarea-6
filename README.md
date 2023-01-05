@@ -198,6 +198,18 @@ Conexión del capacitor electrolítico
 
 ![image](https://user-images.githubusercontent.com/116810935/210672306-e8aeb48e-7124-4b18-80ac-4b4da59be705.png)
 
+22. Para cada circuito de la figura 12-69, determine el voltaje entre las terminales de cada capacitor. 
+
+![image](https://user-images.githubusercontent.com/116810935/210672400-4306c8d0-2ced-4f35-8db7-bed6cc88af11.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210672764-1cc6d292-800e-4c11-8a19-ccdc37592265.png)
+
+24. La carga total guardada por los capacitores en serie de la figura 12-70 es de 10 mC. Determine el voltaje
+entre las terminales de cada capacitor.
+
+![image](https://user-images.githubusercontent.com/116810935/210672846-b61e6cc3-fe8c-454b-bb30-2cd207cefe7c.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210672856-1af36db1-1635-479c-9d84-20954e71dfeb.png)
 
 
 

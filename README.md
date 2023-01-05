@@ -226,8 +226,17 @@ entre las terminales de cada capacitor.
 
 ![image](https://user-images.githubusercontent.com/116810935/210673886-d520e120-660c-4324-bfcf-c9eeb345cd41.png)
 
+SECCIÓN 12–5 Capacitores en circuitos de cd 
+
+30. Determine la constante de tiempo para cada una de las combinaciones en serie: a) R=100Ω, C= 1Uf b) c) R = 10MΩ, C = 47 pF c) R = 4.7 K Ω, C = 0.0047 Uf d) R = 1.5 M Ω, C = 0.01 Uf
+
+![image](https://user-images.githubusercontent.com/116810935/210674569-f6a80e39-9ed8-48e1-a695-7e1fcd70e6f6.png)
 
 
+32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor: (a) 10 ms b)20 ms c)30 ms d) 40 ms e)50 ms
+
+
+![image](https://user-images.githubusercontent.com/116810935/210674580-0c732a1a-0abc-422c-b7e0-ca0cc28c7c54.png)
 
 
 

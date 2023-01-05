@@ -180,6 +180,23 @@ de placas?
 
 Consta de capas alternas de laminillas metálicas y delgadas hojas de mica. Las laminillas metálicas forman la placa, con las laminillas alternas conectadas entre sí para incrementar el área de placas. Se utilizan más capas para incrementar el área de placas, y por tanto, se incrementa la capacitancia. El apilamiento de hojas de mica/laminillas se encapsula en un material aislante.
 
+16. Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la figura 12-66.
+
+![image](https://user-images.githubusercontent.com/116810935/210671914-7db34193-ac84-4f62-a313-a5f96d061147.png)
+
+Conexión del capacitor electrolítico
+
+![image](https://user-images.githubusercontent.com/116810935/210671950-ee3e412a-4fed-4563-aba2-7184d6586b0d.png)
+
+18. Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura 12-67.
+
+![image](https://user-images.githubusercontent.com/116810935/210672007-71544a9b-6497-4a7d-8391-5a121e2c4a3a.png)
+
+![image](https://user-images.githubusercontent.com/116810935/210672264-5294496f-ecfd-431b-b889-22fac651a272.png)
+
+20. Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?
+
+![image](https://user-images.githubusercontent.com/116810935/210672306-e8aeb48e-7124-4b18-80ac-4b4da59be705.png)
 
 
 

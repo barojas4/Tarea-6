@@ -378,7 +378,7 @@ Todas las frecuencias son de 15 kHz.
 
  ## 4. Video
  
- link del video: https://www.youtube.com/watch?v=S2la1igGjh8
+ link del video: https://www.youtube.com/watch?v=ue-8kLZEIuA
  
  ## 5.Conlusión 
  
